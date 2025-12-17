@@ -119,3 +119,7 @@ Para compilar o código, instale as seguintes bibliotecas na Arduino IDE:
 **Davi Greco** *Federal University of São João Del Rei (UFSJ)*
 
 **André Lima** *Federal University of São João Del Rei (UFSJ)*
+
+---
+
+Link dos Vídeos: https://drive.google.com/drive/folders/1K8cHlKkT1FUWWtvSnVYrWRfe4uAF3PfO
